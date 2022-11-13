@@ -16,7 +16,7 @@ module.exports = {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022-present codeteenager'
         },
-        socialLinks: [{ icon: "github", link: "https://github.com/lowcode" }],
+        socialLinks: [{ icon: "github", link: "https://github.com/codeteenager/lowcode" }],
         // sidebar: {
         //     "/web/": [
 
