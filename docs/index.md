@@ -65,5 +65,7 @@
 * [B端页面的低代码引擎之路](/lowcode/pdf/B端页面的低代码引擎之路.pdf)
 * [CODE.FUN一键从设计稿到源代码](/lowcode/pdf/CODE.FUN一键从设计稿到源代码.pdf)
 * [WeDa助力政务最佳实践](/lowcode/pdf/WeDa助力政务最佳实践.pdf)
-
+* [开源表单方案Formily的核心设计思路](/lowcode/pdf/开源表单方案Formily的核心设计思路.pdf)
+* [面向中后台复杂场景的低代码实践思路](/lowcode/pdf/面向中后台复杂场景的低代码实践思路.pdf)
+* [腾讯低代码引擎建设思考和实战.pdf](/lowcode/pdf/腾讯低代码引擎建设思考和实战.pdf)
 
