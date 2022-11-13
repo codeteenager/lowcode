@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.d4a66fc1.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"public/pdf/README.md"}'),r={name:"public/pdf/README.md"};function c(o,s,n,p,d,i){return a(),t("div")}const l=e(r,[["render",c]]);export{f as __pageData,l as default};
