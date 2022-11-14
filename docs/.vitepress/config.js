@@ -2,6 +2,13 @@ module.exports = {
     title: '低代码',
     description: '低代码的相关资料',
     base: '/lowcode/',
+    markdown: {
+        lineNumbers: true, //显示代码行数
+    },
+    lastUpdated: true,
+    head: [
+        ['link', { rel: 'icon', href: '/lowcode/favicon.ico' }]
+    ],
     themeConfig: {
         // siteTitle: false,
         // logo: "/logo.svg",
