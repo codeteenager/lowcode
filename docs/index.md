@@ -19,6 +19,10 @@
 * [从低代码到无代码：可视化逻辑编排](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247489820&idx=1&sn=a5b450429cf7564e5b08225136b19db8)
 * [企业级应用搭建平台是如何设计资产体系的？](https://mp.weixin.qq.com/s/rihJS2GCcQ3wzODw7PHTaA)
 * [浅谈搭建平台 - 画布篇](https://mp.weixin.qq.com/s/vdE-EA_Kk5J64fj2jHxZIw)
+* [京东低代码平台：浅谈水滴拖拽画布的设计与实现](https://juejin.cn/post/7170241987570827300)
+* [京东低代码平台：水滴表单联动可视化配置的实现与思考](https://juejin.cn/post/7169785734180634631)
+* [京东DripForm，标准化表单动态配置能力](https://juejin.cn/post/7042223821218119694)
+* [京东iPaaS之列表解决方案Drip-Table开源啦~！](https://juejin.cn/post/7051421205147959332)
 
 ## 技术分享
 
