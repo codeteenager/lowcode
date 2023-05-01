@@ -1,1 +1,0 @@
-import{_ as E,c as B,o as A,O as e}from"./chunks/framework.b013ee1b.js";const c=JSON.parse('{"title":"低代码的相关资料","description":"","frontmatter":{},"headers":[],"relativePath":"guide/share.md","lastUpdated":1680704631000}'),a={name:"guide/share.md"},l=e("",8),r=[l];function i(o,f,d,t,p,h){return A(),B("div",null,r)}const n=E(a,[["render",i]]);export{c as __pageData,n as default};
